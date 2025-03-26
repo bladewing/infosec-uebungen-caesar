@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Update package lists
-sudo apt update
+sudo apt-get update
 
-sudo apt install build-essential -y
+sudo apt-get install build-essential -y
